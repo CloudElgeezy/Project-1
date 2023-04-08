@@ -27,3 +27,12 @@
 
 `sudo mysql -p`
 ![open mysql with password](./images/9.%20sudo%20msql%20-p.PNG)
+
+`sudo mysql -p`
+![to install php with its dependencies](./images/10.%20sudo%20apt%20install%20php%20libapache2-mod-php%20php-mysql.PNG)
+
+`php -v`
+![to check or confirm php version](./images/11.%20php%20-v.PNG)
+
+`php config page on browser`
+![loading of the php config page on the browser](./images/12%20php.PNG)
